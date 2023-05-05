@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://decent.land">
-    <img src="./img/new-logo.png" height="200">
+    <img src="./new-logo.png" height="200">
   </a>
   <h3 align="center"><code>@decentldotland/ONSF</code></h3>
   <p align="center">Spin up a name service for your dApp or protocol</p>
