@@ -23,8 +23,9 @@ ONSF's business model is to provide a custom NS free of cost in exchange for a p
 - Resolving APIs and integration toolkits
 - Support for EverFinance to integrate your token as a payment method
 - A domain explorer, akin to https://www.ans.gg/explorer
-- Integrating `.yourdomain` NS with [HandShake protocol](https://handshake.org/) (HNS).
+- Integrating `.yourdomain` NS with [HandShake protocol](https://handshake.org/) (HNS) for a decentralized DNS layer.
 - Customized shortlinks gateway for the `.yourdomain` owners. Example: [ArMoji](https://github.com/decentldotland/ArMoji) -- [🙂🙂🙂.arweave.bio](http://🙂🙂🙂.arweave.bio)
+- (optional) Parasite Layer: backward compatibility with any ENS resolver (e.g. MetaMask) through ENS subdomains for the ONSF's TLD.
 
 ### Forks Example: ANS (`.ar` is an ONSF variant for the Arweave network)
 
