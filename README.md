@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://onsf.io">
-    <img src="./logo.png" height="200">
+    <img src="./logo.png" height="120">
   </a>
   <h3 align="center"><code>@decentldotland/ONSF</code></h3>
   <p align="center">Spin up a name service for your dApp or protocol</p>
