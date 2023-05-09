@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://decent.land">
+  <a href="https://onsf.io">
     <img src="./logo.png" height="200">
   </a>
   <h3 align="center"><code>@decentldotland/ONSF</code></h3>
